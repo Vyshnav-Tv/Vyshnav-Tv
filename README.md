@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
